@@ -1,3 +1,18 @@
+> [!NOTE]
+> **9base status: Preserved.** Lifecycle: archived reference; not actively maintained by 9base.
+>
+> JavaScript/GLSL animated-text GIF generator, retained from [antoineMoPa/80sgifgenerator](https://github.com/antoineMoPa/80sgifgenerator). The source project and its original contributors retain their attribution; this repository is a preserved fork.
+>
+> The audited `master` and `gh-pages` heads matched the same-named upstream heads. No 9base-specific technical development was established.
+>
+> Retained here for reference and preservation. The original reason for retaining this copy is undocumented; no larger 9base project family was established.
+>
+> Archival context reconstructed on 8 October 2026 from the repository, branch history and GitHub fork metadata; it does not imply new technical work.
+
+---
+
+<!-- Original upstream README follows unchanged. -->
+
 # Animated gif generator
 
 A gif generator coded in javascript & glsl.
